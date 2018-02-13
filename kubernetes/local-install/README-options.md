@@ -30,7 +30,7 @@ Rook on a cluster with at least three worker nodes:
     kubectl create -f rook-storageclass.yaml
 
 See
-[full instructions](https://rook.io/docs/rook/master/kubernetes.html)
+[full instructions](https://rook.io/docs/rook/master/)
 on Rook web site for more information.
 
 See instructions in [manifests/pv-test.yml](manifests/pv-test.yml) to
